@@ -1,0 +1,11 @@
+C:\Users\konyang\Desktop\VP01_2023-main\024_TwoForm\bin\Debug\024_TwoForm.exe.config
+C:\Users\konyang\Desktop\VP01_2023-main\024_TwoForm\bin\Debug\024_TwoForm.exe
+C:\Users\konyang\Desktop\VP01_2023-main\024_TwoForm\bin\Debug\024_TwoForm.pdb
+C:\Users\konyang\Desktop\VP01_2023-main\024_TwoForm\obj\Debug\024_TwoForm.csprojAssemblyReference.cache
+C:\Users\konyang\Desktop\VP01_2023-main\024_TwoForm\obj\Debug\_024_TwoForm.Form1.resources
+C:\Users\konyang\Desktop\VP01_2023-main\024_TwoForm\obj\Debug\_024_TwoForm.Form2.resources
+C:\Users\konyang\Desktop\VP01_2023-main\024_TwoForm\obj\Debug\_024_TwoForm.Properties.Resources.resources
+C:\Users\konyang\Desktop\VP01_2023-main\024_TwoForm\obj\Debug\024_TwoForm.csproj.GenerateResource.cache
+C:\Users\konyang\Desktop\VP01_2023-main\024_TwoForm\obj\Debug\024_TwoForm.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Desktop\VP01_2023-main\024_TwoForm\obj\Debug\024_TwoForm.exe
+C:\Users\konyang\Desktop\VP01_2023-main\024_TwoForm\obj\Debug\024_TwoForm.pdb
